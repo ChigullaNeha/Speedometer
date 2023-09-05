@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.container {
+  background-color: black;
+  text-align: center;
+  color: white;
+  height: 100vh;
+}
+.meter {
+  height: 300px;
+  width: 400px;
+}
+.acc {
+  background-color: #0b69ff;
+  color: white;
+  height: 40px;
+  width: 120px;
+  border: none;
+  border-radius: 8px;
+  margin: 10px;
+  cursor: pointer;
+}
+.brk {
+  height: 40px;
+  width: 120px;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  background-color: black;
+  border-color: white;
+  border-width: 2px;
+}
+.btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
